@@ -4,3 +4,4 @@ To memorize my favorate programmer Haoel.
 君子修身养德，不以穷困而改志
 
 - [Algorithm - 24. Swap Nodes in Pairs](./Algorithm/24_Swap_Nodes_in_Pairs.MD)
+- [Technical - How to concatenate rows in sql server](./Technical/string_agg.MD)
