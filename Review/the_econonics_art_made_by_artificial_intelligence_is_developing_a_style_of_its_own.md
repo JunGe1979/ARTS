@@ -1,0 +1,2 @@
+#art made by artificial intelligence is evloping a style of its own
+This article is about photagraphy and art. The economics includes so many articles for different categories, which are helpful to learn different word sets for different area. In fact, each area needs different vocabularies, which means you know word set for economics doesn't mean you can read article for archiology, so I need to accumulate these sub-vocabulary for different area.
